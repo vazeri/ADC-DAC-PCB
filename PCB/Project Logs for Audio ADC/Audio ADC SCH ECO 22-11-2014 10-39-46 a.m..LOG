@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=VR1 Old Footprint=PCBComponent_1 New Footprint=VR5
+Change Component Footprint: Designator=VR2 Old Footprint=PCBComponent_1 New Footprint=VR5
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=Y1 Old Footprint=RAD-0.2 New Footprint=RAD-0.3
+Change Component Footprint: Designator=S1 Old Footprint=SPST-2 New Footprint=RAD-0.2
+Change Component Comment: Designator=C3 Old Comment=Cap New Comment=0.01u

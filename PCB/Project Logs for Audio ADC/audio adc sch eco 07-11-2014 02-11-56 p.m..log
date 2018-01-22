@@ -1,0 +1,4 @@
+Remove Pin=P5-2 From Net=VCC
+Change Component Footprint: Designator=S1 Old Footprint=SPST-2 New Footprint=RAD-0.3
+Change Component Footprint: Designator=VR1 Old Footprint=VR5 New Footprint=VR4
+Change Component Footprint: Designator=VR2 Old Footprint=VR5 New Footprint=VR4

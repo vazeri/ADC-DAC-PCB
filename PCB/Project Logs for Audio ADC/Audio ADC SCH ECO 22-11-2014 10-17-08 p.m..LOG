@@ -1,0 +1,4 @@
+Change Component Comment: Designator=D4 Old Comment=LED1 New Comment=5v
+Change Component Comment: Designator=D3 Old Comment=LED1 New Comment=10v
+Change Component Comment: Designator=D2 Old Comment=LED1 New Comment=-10v
+Change Component Designator: OldDesignator=D1 NewDesignator=CUT

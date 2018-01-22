@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D1 Old Footprint=LED-1 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.1 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=Y1 Old Footprint=RAD-0.4 New Footprint=RAD-0.2

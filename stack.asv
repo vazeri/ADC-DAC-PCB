@@ -1,0 +1,15 @@
+%Señal Digital Normalizada R/2R Analogica
+clf 
+
+t = 0:1:1600                  
+
+
+fs = 1000           
+freq = 440           
+senial = sin(2*pi*t*freq/fs)
+
+N=2^4
+D = round(senial*N)/N
+plot(round(sin(2*pi*t/1000)*N)/N)
+
+sound(D,fs)         

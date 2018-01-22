@@ -1,0 +1,8 @@
+Change Component Comment: Designator=P5 Old Comment=AVR New Comment=VCC
+Change Component Comment: Designator=C7 Old Comment=Cap2 New Comment=10n
+Change Component Comment: Designator=C1 Old Comment=Cap2 New Comment=10u
+Change Component Comment: Designator=C8 Old Comment=Cap2 New Comment=220u
+Change Component Comment: Designator=C5 Old Comment=Cap New Comment=22n
+Change Component Comment: Designator=C6 Old Comment=Cap New Comment=22n
+Change Component Comment: Designator=VR1 Old Comment=RPot New Comment=10k
+Change Component Comment: Designator=VR2 Old Comment=RPot New Comment=10k

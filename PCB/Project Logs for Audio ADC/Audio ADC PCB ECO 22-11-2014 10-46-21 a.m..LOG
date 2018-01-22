@@ -1,0 +1,22 @@
+Added Component: Designator=VR1(PCBComponent_1)
+Added Component: Designator=VR2(PCBComponent_1)
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=NetOP1_2 Pin=VR1-2
+Added Pin To Net: NetName=NetOP1_2 Pin=VR1-2
+Added Pin To Net: NetName=NetOP1_2 Pin=VR1-2
+Added Pin To Net: NetName=NetOP1_2 Pin=VR1-3
+Added Pin To Net: NetName=NetOP1_2 Pin=VR1-3
+Added Pin To Net: NetName=NetOP1_2 Pin=VR1-3
+Added Pin To Net: NetName=NetOP3_2 Pin=VR2-1
+Added Pin To Net: NetName=NetOP3_2 Pin=VR2-1
+Added Pin To Net: NetName=NetOP3_2 Pin=VR2-1
+Added Pin To Net: NetName=GND Pin=VR2-2
+Added Pin To Net: NetName=GND Pin=VR2-2
+Added Pin To Net: NetName=GND Pin=VR2-2
+Added Pin To Net: NetName=SEGUIDOR Pin=VR2-3
+Added Pin To Net: NetName=SEGUIDOR Pin=VR2-3
+Added Pin To Net: NetName=SEGUIDOR Pin=VR2-3
+Added Member To Class: ClassName=Audio ADC Member=Component VR1 10k
+Added Member To Class: ClassName=Audio ADC Member=Component VR2 10k
