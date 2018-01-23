@@ -1,0 +1,25 @@
+%Señal Analogica
+%Vazquez Gonzalez Erick  7CV2  2015
+clc                              %Limpia la pantalla
+
+t = [0:1:1500];                  %
+fs = 1000;                       %
+senial = 5*sin((2*pi*t)/fs);     %
+quant=max(senial)/(2^2)          % R/L = Tamaño del escalon 
+y=round(senial/quant)            % Redendeo a entero y se cuantiza en 2^N bit 
+signe=uint8((sign(y)'+1)/2)      %Convierte a entero de 8 bit
+%out=[signe dec2bin(abs(y),7)]    % The first bit represents the sign of the number
+
+xlabel('Tiempo [ms]')       
+ylabel('Tension RMS [v]')
+title('Señal Digital')
+
+sound(y,fs)
+
+plot(y,'b');
+hold on
+plot(senial,'r');
+hold off);
+hold on
+plot(senial,'r');
+hold off

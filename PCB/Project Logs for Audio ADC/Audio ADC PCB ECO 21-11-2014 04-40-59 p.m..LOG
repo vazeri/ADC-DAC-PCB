@@ -1,4 +1,0 @@
-Added Component: Designator=Vout(cONECTOR)
-Added Pin To Net: NetName=VOUT Pin=Vout-1
-Added Pin To Net: NetName=GND Pin=Vout-2
-Added Member To Class: ClassName=Audio ADC Member=Component Vout Speaker

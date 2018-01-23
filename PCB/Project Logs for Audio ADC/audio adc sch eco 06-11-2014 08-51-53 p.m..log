@@ -1,9 +1,0 @@
-Change Component Footprint: Designator=C1 Old Footprint=CAPR5-4X5 New Footprint=RAD-0.1
-Change Component Footprint: Designator=OP2 Old Footprint=H-08A New Footprint=DIP-8
-Change Component Footprint: Designator=OP3 Old Footprint=H-08A New Footprint=DIP-8
-Change Component Footprint: Designator=OP4 Old Footprint=H-08A New Footprint=DIP-8
-Change Component Footprint: Designator=OP5 Old Footprint=H-08A New Footprint=DIP-8
-Change Component Footprint: Designator=P1 Old Footprint=MHDR1X2 New Footprint=cONECTOR
-Change Component Footprint: Designator=P2 Old Footprint=MHDR1X2 New Footprint=cONECTOR
-Change Component Footprint: Designator=LS1 Old Footprint=PIN2 New Footprint=cONECTOR
-Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=RAD-0.1

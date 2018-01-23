@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=S1 Old Footprint=RAD-0.3 New Footprint=SPST-2
+Change Component Footprint: Designator=VR1 Old Footprint=VR4 New Footprint=VR5
+Change Component Footprint: Designator=VR2 Old Footprint=VR4 New Footprint=VR5
+Added Pin To Net: NetName=VCC Pin=P5-2

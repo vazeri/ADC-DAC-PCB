@@ -1,3 +1,0 @@
-Added Component: Designator=Y1(Crystal)
-Added Pin To Net: NetName=OSC2 Pin=Y1-1
-Added Member To Class: ClassName=Audio ADC Member=Component Y1 16Mhz

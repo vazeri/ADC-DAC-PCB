@@ -1,0 +1,32 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Audio ADC.PrjPcb|ReportField=ProjectFullPath~F:\Dropbox\DropBox Erick\ESIME\7mo Semestre\Procesamiento Digital de Señales\Proyecto\PCB\Audio ADC.PrjPcb|ReportField=Title~Bill of Materials For Project [Audio ADC.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~54|ReportField=ReportTime~05:58:18 p.m.|ReportField=ReportDate~23/11/2014|ReportField=ReportDateTime~23/11/2014 05:58:18 p.m.|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~23/11/2014|ReportField=CurrentTime~05:55:18 p.m.|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\Dropbox\DropBox Erick\ESIME\7mo Semestre\Procesamiento Digital de Señales\Proyecto\PCB\Audio ADC.SchDoc|ReportField=DocumentName~Audio ADC.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Vazquez Gonzalez Erick|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~23/11/2014|ReportField=Organization~|ReportField=ProjectName~Audio ADC.PrjPcb|ReportField=Revision~1.0|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~Vazquez Gonzalez Erick|ReportField=DataSourceFileName~Audio ADC.PrjPcb|ReportField=DataSourceFullPath~F:\Dropbox\DropBox Erick\ESIME\7mo Semestre\Procesamiento Digital de Señales\Proyecto\PCB\Audio ADC.PrjPcb
+10u|Capacitor|C1|CAPR5-4X5|Cap2|1
+Cap|Capacitor|C2|RAD-0.2|Cap|1
+0.01u|Capacitor|C3|RAD-0.1|Cap|1
+Cap|Capacitor|C4|RAD-0.1|Cap|1
+22n|Capacitor|C5, C6|RAD-0.1|Cap|2
+10n|Capacitor|C7|CAPR5-4X5|Cap2|1
+220u|Capacitor|C8|CAPR5-4X5|Cap2|1
+LED1|Typical RED GaAs LED|CUT|6-0805_M|LED1|1
+-10v|Typical RED GaAs LED|D2|6-0805_M|LED1|1
+10v|Typical RED GaAs LED|D3|6-0805_M|LED1|1
+5v|Typical RED GaAs LED|D4|6-0805_M|LED1|1
+741|FET Operational Amplifier|OP1, OP2, OP3, OP4, OP5|DIP-8|Op Amp|5
+Vin|Header, 2-Pin|P1|cONECTOR|MHDR1X2|1
++10v|Header, 2-Pin|P2|cONECTOR|MHDR1X2|1
+VCC|Header, 5-Pin, Dual row|P5|HDR2X5|Header 5X2|1
+Test|Header, 10-Pin|P7|HDR1X10|Header 10|1
+5v|Header, 2-Pin|P63D|cONECTOR|MHDR1X2|1
+100k|Resistor|R1, R2, R3|AXIAL-0.3|Res1|3
+20k|Resistor|R4, R5, R6, R7, R8, R9, R10, R11, R19|AXIAL-0.3|Res1|9
+10k|Resistor|R12, R13, R14, R15, R16, R17, R18, R23|AXIAL-0.3|Res1|8
+3k|Resistor|R20|AXIAL-0.3|Res1|1
+10|Resistor|R21|AXIAL-0.3|Res1|1
+150|Resistor|R24|6-0805_M|Res1|1
+360|Resistor|R25|6-0805_M|Res1|1
+430|Resistor|R26|6-0805_M|Res1|1
+160|Resistor|R27|6-0805_M|Res1|1
+SW-PB|Switch|S1|PBUniversal|SW-PB|1
+ATmega328P-PU|8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 28-pin PDIP, Industrial Grade (-40°C to 85°C)|U1|28P3|ATmega328P-PU|1
+Speaker|Loudspeaker|Vout|cONECTOR|Speaker|1
+10k|Potentiometer|VR1, VR2|TPParado|RPot|2
+16Mhz|Crystal Oscillator|Y1|Crystal|XTAL|1

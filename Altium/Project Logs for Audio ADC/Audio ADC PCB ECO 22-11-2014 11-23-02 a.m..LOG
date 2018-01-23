@@ -1,0 +1,7 @@
+Added Component: Designator=S1(PBUniversal)
+Added Pin To Net: NetName=RST Pin=S1-1
+Added Pin To Net: NetName=RST Pin=S1-1
+Added Pin To Net: NetName=RST Pin=S1-1
+Added Pin To Net: NetName=NetC7_1 Pin=S1-2
+Added Pin To Net: NetName=NetC7_1 Pin=S1-2
+Added Member To Class: ClassName=Audio ADC Member=Component S1 SW-PB

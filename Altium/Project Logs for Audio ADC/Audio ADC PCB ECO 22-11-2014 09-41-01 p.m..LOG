@@ -1,0 +1,11 @@
+Change Component Comment : Designator=D2 Old Comment=.10v New Comment=LED1
+Change Component Comment : Designator=D4 Old Comment=5v New Comment=LED1
+Change Component Comment : Designator=D3 Old Comment=10v New Comment=LED1
+Change Component Designator: OldDesignator=Cut NewDesignator=D1
+Added Component: Designator=S1(PBUniversal)
+Added Pin To Net: NetName=RST Pin=S1-1
+Added Pin To Net: NetName=RST Pin=S1-1
+Added Pin To Net: NetName=RST Pin=S1-1
+Added Pin To Net: NetName=NetC7_1 Pin=S1-2
+Added Pin To Net: NetName=NetC7_1 Pin=S1-2
+Added Member To Class: ClassName=Audio ADC Member=Component S1 SW-PB

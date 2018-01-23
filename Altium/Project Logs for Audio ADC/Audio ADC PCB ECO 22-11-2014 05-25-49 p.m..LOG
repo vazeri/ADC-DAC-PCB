@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=R24 Old Footprint=AXIAL-0.3 New Footprint=3.5X2.8X1.9
+Change Component Footprint: Designator=D1 Old Footprint=RAD-0.1 New Footprint=3.5X2.8X1.9
+Change Component Comment : Designator=R24 Old Comment=150 New Comment=180
+Added Component: Designator=D2(3.5X2.8X1.9)
+Added Component: Designator=D3(3.5X2.8X1.9)
+Added Component: Designator=D4(3.5X2.8X1.9)
+Added Component: Designator=R25(3.5X2.8X1.9)
+Added Component: Designator=R26(3.5X2.8X1.9)
+Added Component: Designator=R27(3.5X2.8X1.9)
+Added Pin To Net: NetName=-10V Pin=D2-2
+Added Pin To Net: NetName=10V Pin=D3-1
+Added Pin To Net: NetName=5V Pin=D4-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R25-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R26-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R27-2
+Added Net: Name=NetD4_2
+Added Member To Class: ClassName=Audio ADC Member=Component D2 LED1
+Added Member To Class: ClassName=Audio ADC Member=Component D3 LED1
+Added Member To Class: ClassName=Audio ADC Member=Component D4 LED1
+Added Member To Class: ClassName=Audio ADC Member=Component R25 470
+Added Member To Class: ClassName=Audio ADC Member=Component R26 470
+Added Member To Class: ClassName=Audio ADC Member=Component R27 180

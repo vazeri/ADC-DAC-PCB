@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: E:\Dropbox\DropBox Erick\ESIME\7mo Semestre\Procesamiento Digital de Señales\Proyecto\PCB\Audio ADC.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

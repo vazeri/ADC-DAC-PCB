@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=P2-1
-Removed Pin From Net: NetName=-10V Pin=P3-1
-Removed Pin From Net: NetName=GND Pin=P3-2
-Removed Member From Class: ClassName=Audio ADC Member=P3
-Added Pin To Net: NetName=-10V Pin=P2-1
-Added Pin To Net: NetName=NetOP1_2 Pin=VR1-3
